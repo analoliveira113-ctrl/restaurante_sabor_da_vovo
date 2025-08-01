@@ -1,4 +1,16 @@
 ## Restaurante - Sabor da Vovó
-🏠 Seja bem-vindo ao nosso cantinho de sabor e conforto! Aqui no nosso restaurante, cada prato é preparado com carinho, ingredientes frescos e aquele toque especial de comida feita em casa. 
- 
- 🍛 Mais do que uma refeição, oferecemos uma experiência acolhedora, que lembra os melhores momentos ao redor da mesa.
+
+## 🏡 O Restaurante que traz aconchego e as melhores comidas caseiras
+
+Seja bem-vindo ao nosso cantinho de sabor e conforto, onde cada refeição é mais do que uma simples comida: é um convite para se sentir em casa. Aqui, no coração de Sorocaba, a tradição da comida caseira ganha vida, trazendo à mesa o verdadeiro sabor que aquece o corpo e alimenta a alma. Nosso restaurante é um pedaço de aconchego em meio à rotina agitada da cidade, pensado para ser um refúgio onde você pode saborear os pratos que lembram os momentos mais especiais da sua vida.
+
+Nosso compromisso vai além de oferecer uma refeição satisfatória: queremos proporcionar uma experiência única de calor humano e sabor genuíno. Cada prato é cuidadosamente preparado com os melhores ingredientes, escolhidos com carinho e atenção para garantir frescor e qualidade. O segredo está no toque caseiro que, aliado a uma pitada de tradição e inovação, resulta em sabores autênticos e inconfundíveis.
+
+Aqui, você encontrará uma verdadeira viagem de sabores com receitas passadas de geração em geração, que fazem parte da memória afetiva de tantas famílias. São pratos que trazem a essência do interior, com o sabor reconfortante de comida feita com amor, que agrada desde os mais simples até os paladares mais exigentes.
+
+Sabemos que, em meio ao corre-corre do dia a dia, poucas coisas são tão prazerosas quanto compartilhar uma boa refeição com quem amamos. É por isso que nos dedicamos a criar um ambiente acolhedor, onde você se sente à vontade, como se estivesse na sala de jantar da sua própria casa. A cada visita, buscamos oferecer não apenas a satisfação de comer bem, mas também a oportunidade de viver uma experiência de conforto e prazer, como se estivesse saboreando os melhores pratos preparados pela sua avó ou mãe.
+
+Com orgulho, trazemos para você um cardápio que reflete o melhor da culinária caseira, repleto de pratos típicos e sabores tradicionais de Sorocaba e da região. Cada receita foi pensada para ser uma verdadeira explosão de gostos e aromas, com porções generosas que vão agradar todos os gostos e satisfazer os paladares mais exigentes. Aqui, você encontra desde os clássicos da comida de família até pratos especiais, que ficam na memória de quem prova.
+
+Seja para uma refeição em família, um almoço descontraído com amigos ou um momento íntimo a dois, nosso restaurante está sempre pronto para receber você e seus convidados com muito carinho e dedicação. A cada prato servido, nossa missão é transformar sua refeição em um momento de prazer e aconchego, trazendo à tona aquelas boas lembranças que fazem o coração bater mais forte.
+
