@@ -10,6 +10,6 @@ Sabemos que, em meio ao corre-corre do dia a dia, poucas coisas são tão prazer
 
 Seja para uma refeição em família, um almoço descontraído com amigos ou um momento íntimo a dois, nosso restaurante está sempre pronto para receber você e seus convidados com muito carinho e dedicação. A cada prato servido, nossa missão é transformar sua refeição em um momento de prazer e aconchego, trazendo à tona aquelas boas lembranças que fazem o coração bater mais forte.
 
-PARTICIPANTES: 
+       PARTICIPANTES: 
 - Ana Laura Paulino Oliveira 
 - Eloize Oliveira Muzel
